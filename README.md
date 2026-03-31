@@ -1,1 +1,1 @@
-# Seletor-de-p-ginas
+# Seletor-de-paginas
